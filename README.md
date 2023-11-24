@@ -33,4 +33,4 @@ Prerequisites -
 - sklearn.metrics - confusion_matrix
 
 #Tableau
--URL to tableau viz:https://public.tableau.com/app/profile/sreerangam.pradeep/viz/FP_PROJECT/Dashboard1 
+-URL to tableau viz:https://public.tableau.com/app/profile/sreerangam.pradeep/viz/FP_PROJECT/RPP?publish=yes
